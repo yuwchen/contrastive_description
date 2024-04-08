@@ -1,1 +1,2 @@
-# contrastive_description
+# Two stage visual classification via contrastive description 
+
