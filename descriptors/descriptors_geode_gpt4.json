@@ -1,0 +1,346 @@
+{
+    "bag": [
+        "made of materials like leather, canvas, or plastic",
+        "a handle or strap ",
+        "openings or zippers",
+        "variety of colors and patterns",
+        "can range in size from small (like a purse) to large (like a duffel or suitcase)",
+        "branding or logos",
+        "sometimes has pockets on the outside."
+    ],
+    "hand_soap": [
+        "Stored typically in a soap dispenser or directly on a soap dish",
+        "Liquid soap is usually in bottles with a pump on top",
+        "Bar soaps are solid, typically rectangular shape",
+        "Common colors are white, brown, or clear, or other various colors",
+        "May have a brand name or the word \"soap\" clearly marked",
+        "Can be presented in a foam format as well.",
+        "Might show lather or bubbles if it's being used."
+    ],
+    "dustbin": [
+        "has a lid",
+        "often made of plastic or metal",
+        "commonly brush, gray, or green",
+        "larger than common household items",
+        "position - typically placed on the ground",
+        "may have a foot pedal for opening the lid",
+        "often has a handle",
+        "may have trash inside or nearby"
+    ],
+    "toothbrush": [
+        "a cluster of bristles at one end",
+        "comes in many colors",
+        "typically plastic",
+        "small head compared to the handle",
+        "sometimes features a grip or an angled head."
+    ],
+    "toothpaste_toothpowder": [
+        "White or colored paste-like substance",
+        "Often branded and has a printed label with product details",
+        "The container often has a twistable cap or a flip-top opening",
+        "May be squeezed out onto a toothbrush",
+        "Typically seen in bathroom settings alongside toothbrushes"
+    ],
+    "hairbrush_comb": [
+        "Handle to hold",
+        "Rows of bristles or teeth",
+        "Varying sizes",
+        "Could be made of plastic, wood or metal",
+        "Colors may vary but commonly black, brown or clear."
+    ],
+    "chair": [
+        "Typical square or round seat for sitting",
+        "A backrest",
+        "Sometimes arms or armrests",
+        "They can come in various colours",
+        "Usually smaller than other furniture like tables or sofas ",
+        "Usually made of materials like wood, plastic or metal"
+    ],
+    "hat": [
+        "Various shapes and sizes, but most have a brim or peak",
+        "Located, predominantly, on a person's head or in hand",
+        "Made from a variety of materials, including fabric, felt, leather or straw ",
+        "Capable of being any color",
+        "Some have decorative elements like ribbons, feathers, or bands",
+        "Common types include baseball caps, fedoras, cowboy hats, beanies, and sun hats."
+    ],
+    "light_fixture": [
+        "Mounted to a ceiling, wall or other surface",
+        "May produce light (although not always if it's off in the photo)",
+        "Comes in numerous shapes but typically consists of a bulb or collection of bulbs",
+        "May have decorative housing around the bulb(s)",
+        "Electrical wiring or cord may be visible ",
+        "Switch or button to turn on/off the fixture",
+        "May contain shades or covers over the bulbs."
+    ],
+    "light_switch": [
+        "usually located on the wall",
+        "Often white, beige or off-white, although can be other colors ",
+        "visible switch or toggle for turning light on and off",
+        "Some might have a dimming feature visible",
+        "Could be placed beside a doorway",
+        "Electrical switchplate or casing around the switch",
+        "Sometimes has visible screws."
+    ],
+    "plate_of_food": [
+        "An actual plate, which can vary in shape but often circular",
+        "Varied colors depending on the food",
+        "Different textures associated with the type of food (smooth for soup, rough for fried food etc.)",
+        "Utensils like spoons, forks, chopsticks",
+        "Accompaniments like glasses of beverage, napkins",
+        "Garnish or decoration on the food",
+        "Portion size and arrangement on the plate."
+    ],
+    "spices": [
+        "Vibrant colors like red, yellow, brown",
+        "Often in jars or containers ",
+        "Have unique textures ",
+        "Small size relative to other food ingredients ",
+        "Labels indicating the type of spice (if in a jar or package) ",
+        "Sometimes have specific shapes like seeds, grains, leaves, or bark."
+    ],
+    "stove": [
+        "Control knobs for adjusting temperature",
+        "Burners or hobs (generally 4) on the top of the stove",
+        "An oven underneath",
+        "May have a hood or extractor fan positioned above",
+        "Made up of steel or metal",
+        "Some have a digital display for temperature and time control."
+    ],
+    "cooking_pot": [
+        "metallic or ceramic material",
+        "two handles on either side or a singular handle on one side",
+        "lid with a knob or a handle ",
+        "flat bottom",
+        "varies in color but commonly silver, grey, black or brown",
+        "can be seen on a stove or range."
+    ],
+    "cleaning_equipment": [
+        "Bristles if it's a brush or a broom",
+        "Bucket shape if it's a mop/bucket",
+        "Long hose and nozzles if it's a vacuum cleaner",
+        "Cloth or sponge material if it's a cleaning cloth or sponge",
+        "Spray nozzle if it's a cleaning spray bottle",
+        "Wheels if it's a professional cleaning equipment",
+        "Cord if it's electrical cleaning equipment such as vacuum cleaner or steam cleaner."
+    ],
+    "lighter": [
+        "Rectangular or cylindrical shape",
+        "Metal or plastic casing, often in bright colors",
+        "Button or switch mechanism for igniting the flame",
+        "Flame or spark when ignited",
+        "A fuel compartment or slot for lighter fluid or butane refill."
+    ],
+    "medicine": [
+        "capsule or tablet form",
+        "labels specifying the name and dosage of the medicine",
+        "pill organizer or blister pack",
+        "pharmacy or prescription labels",
+        "a safety cap or seal ",
+        "a measuring spoon or cup, often associated with liquid medicines."
+    ],
+    "candle": [
+        "usually cylindrical or sometimes square in shape",
+        "made of wax",
+        "has a wick at the top",
+        "may be seen with a flame if lit",
+        "can be any color",
+        "sometimes in a candle holder or candlestick",
+        "may have drips of wax down the sides",
+        "various sizes, from small to quite large."
+    ],
+    "toy": [
+        "Small in size",
+        "Bright and varied colors",
+        "Recognizable shapes like animals, cars, dolls etc.",
+        "Made of plastic, cloth or wood",
+        "Sometimes may come with accessories",
+        "Often features smooth, rounded edges for safety ",
+        "sometimes might have motorized parts",
+        "Packaging or labelling that indicates it's for children."
+    ],
+    "jug": [
+        "Generally cylindrical-shaped body",
+        "A handle on one side",
+        "Spout for pouring",
+        "Larger at the base and narrower at the top",
+        "Can have a lid or cap on top",
+        "Can vary in size and color"
+    ],
+    "streetlight_lantern": [
+        "light fixture at the top",
+        "often round or square lantern style light ",
+        "light bulb inside the fixture",
+        "sometimes has a shield or top cover over the light",
+        "commonly placed alongside streets or pathways ",
+        "can be solitary or in lines/groups ",
+        "may have a power cord or solar panel"
+    ],
+    "front_door": [
+        "Generally taller than it is wide",
+        "Made of wood, metal, or glass",
+        "A handle or knob",
+        "Might have windows or panels",
+        "A visible frame around it",
+        "A lock or keyhole",
+        "Located on the front face of the house",
+        "Steps or a doorstep leading to it",
+        "Might have a peephole",
+        "May have a mailbox or house numbers on or near it."
+    ],
+    "tree": [
+        "green leaves or needles",
+        "brown, often textured trunk ",
+        "branches extending from the trunk",
+        "can vary greatly in size",
+        "roots at the base of the tree."
+    ],
+    "house": [
+        "a door ",
+        "windows",
+        "a roof (often triangular shape)",
+        "typically rectangular shape overall",
+        "a front yard or backyard",
+        "a chimney",
+        "external walls",
+        "sometimes house numbers or a mailbox"
+    ],
+    "backyard": [
+        "Fences or walls around the yard",
+        "Patio or deck",
+        "Trees or plants",
+        "Garden decorations or furniture ",
+        "Swing set or play area",
+        "A shed or garage",
+        "Possibly a barbecue grill or fire pit",
+        "A pool, pond, or water feature ",
+        "The back of a house or residence visible."
+    ],
+    "truck": [
+        "usually rectangular shape",
+        "four or more wheels",
+        "a cab area for the driver",
+        "a bed or box-like area for carrying goods",
+        "frontal grille and headlamps",
+        "side mirrors which are larger than normal cars",
+        "often bigger and taller than most other vehicles."
+    ],
+    "waste_container": [
+        "Generally made of plastic, metal, or wood",
+        "Often in colors such as green, blue, brown, or grey",
+        "Might have a lid",
+        "Usually has handles",
+        "May have wheels for transport",
+        "Might show labels for recycling or bio-waste distinction",
+        "Usually found in public spaces, outside of homes, or in kitchens."
+    ],
+    "car": [
+        "windshield and windows",
+        "headlights and taillights",
+        "car mirrors on either side ",
+        "car doors, usually two or four",
+        "a license plate",
+        "a car hood and trunk",
+        "car handles to open doors",
+        "rectangular shaped body"
+    ],
+    "fence": [
+        "Often made of wood, metal or vinyl",
+        "Connected by railings or posts",
+        "Regularly spaced",
+        "Serves as a boundary or barricade",
+        "Depending on the type, may have sharp points on the top, such as a picket fence or wrought iron fence."
+    ],
+    "road_sign": [
+        "High contrast colors (red, white, yellow, blue)",
+        "Symbols, numbers, or text",
+        "Reflective material",
+        "Mounted on a post or attached to a larger structure",
+        "Located alongside a road or street."
+    ],
+    "dog": [
+        "tail",
+        "fur or hair",
+        "variety of sizes, from small to large",
+        "variety of colors, from white, black, brown, gray, or mixtures thereof",
+        "ears, either erect or drooping",
+        "snout",
+        "visible teeth or tongue if mouth is open",
+        "collar or leash if domestic"
+    ],
+    "wheelbarrow": [
+        "A large, often metal, bin for carrying loads",
+        "Long handles at the back for pushing and steering",
+        "Stands/stabilizers at the back",
+        "Usually red or green in color."
+    ],
+    "religious_building": [
+        "Crosses, stars, crescents, or other religious symbols",
+        "Large and tall doors",
+        "Stained glass windows",
+        "Certain characteristics specific to the religion, such as minarets for mosques or a gopuram for Hindu temples",
+        "Usually away from other buildings or is the tallest structure in the surrounding area."
+    ],
+    "stall": [
+        "tables or shelves for the display of goods",
+        "visible goods or merchandise",
+        "signage indicating what's being sold",
+        "may have awnings or tarps",
+        "located in a marketplace or street fair setting."
+    ],
+    "boat": [
+        "presence of water or a dock",
+        "sails (if it is a sailboat)",
+        "oars (if it's a rowboat)",
+        "a propeller or motor at the back ",
+        "a rudder steer",
+        "anchors or mooring ropes attached to the sides",
+        "a cabin or seating area",
+        "life jackets or safety equipment."
+    ],
+    "monument": [
+        "Unique architectural designs",
+        "Inscriptions or plaques",
+        "Situated in open space or park",
+        "Presence of sculptures or statues",
+        "Often surrounded by tourists or visitors",
+        "High against the sky or landscape",
+        "Lights illuminating the structure (if photo taken at night)"
+    ],
+    "flag": [
+        "Pillar or pole on one side",
+        "single, bi-color, or multi-color pattern ",
+        "Some could have symbols, emblems or logos",
+        "Fluttering if there is wind. ",
+        "Usually mounted or placed at visible points",
+        "Can be seen as a reflection of a country, state, organization, etc."
+    ],
+    "bus": [
+        "a series of windows",
+        "multiple seating arrangement inside visible through windows",
+        "a clear front with windshields and side mirrors",
+        "one or two doors for passenger entry and exit",
+        "a sign indicating the direction or route details",
+        "visible wheels or tires",
+        "the color could vary depending upon the culture or company ",
+        "bus number or identification."
+    ],
+    "storefront": [
+        "Business name or logo",
+        "Display windows featuring merchandise",
+        "Outdoor signage",
+        "Items for sale",
+        "Store hours posted on the door ",
+        "Awnings or other distinctive coverings ",
+        "Street address."
+    ],
+    "bicycle": [
+        "A frame connecting the wheels",
+        "Handlebars for steering ",
+        "A saddle (seat) ",
+        "Pedals ",
+        "A chain connecting the pedals to one of the wheels",
+        "Brakes",
+        "Various gears."
+    ]
+}
