@@ -34,3 +34,14 @@ python get_contrastive_embedding.py
 (1) {name of your description file}+'_two_stage_scores.pt':  contrastive description scores embedding of the selected samples    
 (2) {name of your description file}+'_selected_idx.pt': indexs of the selectes samples (respect to the original file list)    
 Note: selected sample means the top2 prediction pair is in the contrastive_descrption file.  
+
+## Step 3: second stage prediction
+
+Using random train test split
+```
+two_stage_prediction_random.py
+```
+Train test on predefined train test split
+```
+two_stage_prediction_fix.py
+```
