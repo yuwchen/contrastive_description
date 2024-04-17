@@ -19,8 +19,8 @@
 
 
 The difficult_images are split into the train and test set. 10% of data are used for training, whereas 90% of data are used for testing.   
-- filename_list_train.txt (973 images): 10% of samples in files_for_second_stage.txt that used for the training    
-- filename_list_test.txt (8766 images): 90% of samples in files_for_second_stage.txt that used for the testing    
+- difficult_file_train.txt (973 images): 10% of samples in files_for_second_stage.txt that used for the training    
+- difficult_file_test.txt (8766 images): 90% of samples in files_for_second_stage.txt that used for the testing    
 
 
 Train/Test for each confused pairs:  
