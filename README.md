@@ -1,7 +1,16 @@
-# Two stage visual classification via contrastive description 
+# Geographically Diverse Image Classification via Visual Descriptive Representations
 
 
 ## Step 0 : Prepare description file
+
+descriptions of origianl model (.json):  
+{"object":
+[des1, des2, ...],
+...}
+  
+descriptions to get contrastive descriptive representation (.pkl):  
+{(obj_id_a, obj_id_b):  
+ {obj_id_a:[des_a_1, des_a_2, ...], obj_id_b:[des_b_1, des_b_2]}, ...}
 
 ## Step 1 : Get object description scores
 
