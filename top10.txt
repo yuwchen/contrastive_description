@@ -1,0 +1,35 @@
+Gpt3:
+('dustbin', 'waste_container') 2 26 ::: 716
+('stall', 'storefront') 33 38 ::: 284
+('toothpaste_toothpowder', 'medicine') 4 16 ::: 276
+('toothbrush', 'cleaning_equipment') 3 14 ::: 268
+('tree', 'backyard') 22 24 ::: 239
+('spices', 'medicine') 11 16 ::: 237
+('backyard', 'fence') 24 28 ::: 196
+('house', 'fence') 23 28 ::: 180
+('hand_soap', 'cleaning_equipment') 1 14 ::: 166
+('hand_soap', 'spices') 1 11 ::: 161
+
+gpt3.5:
+('dustbin', 'waste_container') 2 26 ::: 732
+('backyard', 'tree') 24 22 ::: 346
+('cleaning_equipment', 'toothbrush') 14 3 ::: 341
+('stall', 'storefront') 33 38 ::: 286
+('medicine', 'spices') 16 11 ::: 248
+('medicine', 'toothpaste_toothpowder') 16 4 ::: 226
+('hairbrush_comb', 'toothbrush') 5 3 ::: 223
+('backyard', 'fence') 24 28 ::: 218
+('toothbrush', 'toothpaste_toothpowder') 3 4 ::: 197
+('backyard', 'house') 24 23 ::: 193
+
+gpt4:
+('dustbin', 'waste_container') 2 26 ::: 732
+('backyard', 'tree') 24 22 ::: 346
+('cleaning_equipment', 'toothbrush') 14 3 ::: 341
+('stall', 'storefront') 33 38 ::: 286
+('medicine', 'spices') 16 11 ::: 248
+('medicine', 'toothpaste_toothpowder') 16 4 ::: 226
+('hairbrush_comb', 'toothbrush') 5 3 ::: 223
+('backyard', 'fence') 24 28 ::: 218
+('toothbrush', 'toothpaste_toothpowder') 3 4 ::: 197
+('backyard', 'house') 24 23 ::: 193
