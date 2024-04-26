@@ -1,0 +1,6 @@
+__pycache__
+
+training_logs
+wandb
+*.log
+*.txt
